@@ -29,7 +29,7 @@ using namespace std;
  			a.push_back(temp1);
  	}
 
-    cout <<"coming fine" <<endl;
+   // cout <<"coming fine" <<endl;
  	return a[numRows-1];
 
  }
